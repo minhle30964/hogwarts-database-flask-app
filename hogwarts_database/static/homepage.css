@@ -1,0 +1,42 @@
+/* CSS file specifically for homepage */
+
+/* Setting the background image of the homepage and styling in a responsive manner that covers the entire background */
+body, html {
+    background-image: url("/static/hogwarts.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Essentially setting the background of the Jumbotron on the homepage to the Maurauders' Map, transition time and function also set */
+.background {
+    background-image: url("/static/map.jpg");
+    transition: background 2s linear;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+/* Giving the jumbotron margin of 20% on left and right */
+.jumbotron {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/* Initially setting certain elements in jumbotron to hidden, which become visible when Maurauders' Map is unveiled */
+.appear {
+    visibility: hidden;
+}
+
+/* Setting transition duration of the button to unveil Maurauders' Map */
+.btn-lg {
+    transition-duration: 0.25s;
+}
+
+/* Styling the button (when hovered over) that unveils the Maurauders' Map */
+.btn-lg:hover {
+    background-color: white;
+    border: 2px solid green;
+    color: black;
+}

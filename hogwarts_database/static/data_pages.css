@@ -1,0 +1,34 @@
+/* CSS file specifically for all pages except homepage */
+
+/* Setting the background color of the pages similar to color of Maurauders' Map and hiding horizontal overflow */
+body, html {
+    background-color: #D9D1BA;
+    overflow-x: hidden;
+}
+
+/* Giving "titles" in the bodies of the pages a margin on the bottom */
+.display-2 {
+    margin-bottom: 2rem;
+}
+
+/* Giving the jumbotron margin of 20% on left and right */
+.jumbotron {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/* Aligning paragraph elements to the left (specifically for character.html) */
+p {
+    text-align: left;
+}
+
+/* Giving the card grid a full width and adding a left margin to make it even on both the left and the right */
+.card-grid {
+    width: 100%;
+    margin-left: 1.5rem;
+}
+
+/* Giving a margin on the top of footer elements */
+footer {
+    margin-top: 4rem;
+}

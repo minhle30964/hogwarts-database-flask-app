@@ -1,0 +1,48 @@
+<!-- Using layout html file -->
+{% extends "layout.html" %}
+
+<!-- Block for linking CSS file for pages other than homepage -->
+{% block css_js_files %}
+    <link href="/static/data_pages.css" rel="stylesheet">
+{% endblock %}
+
+<!-- Naming the title of the page -->
+{% block title %}
+    Search Results
+{% endblock %}
+
+<!-- Main block -->
+{% block main %}
+    <!-- Title element in the body of the page -->
+    <h1 class="display-2">Search Results</h1>
+
+    <!-- Laying out a card grid using Bootstrap -->
+    <div class="row row-cols-1 row-cols-md-4 card-grid">
+        <!-- Looping through all characters in the SQL database -->
+        {% for character in characters %}
+            <!-- Creating card for each character search query returned -->
+            <div class="col mb-4">
+                <div class="card h-100" style="width: 18rem;">
+                    <img src="/static/hogwarts.jpg" class="card-img-top" alt="...">
+                    <!-- Card displays character's name and job -->
+                    <div class="card-body">
+                        <h5 class="card-title">{{character["Name"]}}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">{{character["Job"]}}</h6>
+                        <!-- Button to essentially view the character's information by rendering character.html file -->
+                        <form action="/view" method="GET" class="card-link">
+                            <input name="id" type="hidden" value='{{character["Id"]}}'>
+                            <input type="submit" value='View' class="btn btn-outline-success">
+                        </form>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+    <!-- Citing source links of images and dataset used -->
+    <footer class="mb-5 text-center">
+        Dataset From <a href="https://www.kaggle.com/gulsahdemiryurek/harry-potter-dataset">Kaggle</a>;
+        Hogwarts Image <a href="https://wallpapercave.com/hogwarts-background">Source</a>;
+        Harry Potter Favicon <a href="https://1000logos.net/harry-potter-logo/">Source</a>
+    </footer>
+{% endblock %}

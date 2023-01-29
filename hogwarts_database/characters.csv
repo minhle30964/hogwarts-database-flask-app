@@ -1,0 +1,64 @@
+﻿Id,Name,Gender,Job,House,Wand,Patronus,Species,Blood Status,Hair Color,Eye Color,Loyalty,Skills/Titles
+1,Harry James Potter,Male,Student,Gryffindor,"11""  Holly  phoenix feather",Stag,Human,Half-blood,Black,Bright Green,Albus Dumbledore; Dumbledore's Army; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Parseltongue; Defense Against the Dark Arts; Seeker
+2,Ronald Bilius Weasley,Male,Student,Gryffindor,"12"" Ash unicorn tail hair ",Jack Russell terrier,Human,Pure-blood,Red,Blue,Dumbledore's Army; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Wizard Chess; Quidditch Goal Keeping
+3,Hermione Jean Granger,Female,Student,Gryffindor,"10¾""  vine wood dragon heartstring",Otter,Human,Muggle-born,Brown,Brown,Dumbledore's Army; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Almost Everything
+4,Albus Percival Wulfric Brian Dumbledore,Male,Headmaster,Gryffindor,"15"" Elder Thestral tail hair core",Phoenix,Human,Half-blood,"Silver, Formerly Auburn",Blue,Dumbledore's Army; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Considered by many to be One of the Most Powerful Wizards of His Time
+5,Rubeus Hagrid,Male,Keeper of Keys and Grounds | Professor of Care of Magical Creatures ,Gryffindor,"16""  Oak unknown core",None,Half-Human/Half-Giant,Part-Human (Half-giant),Black,Black,Albus Dumbledore; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Resistant to Stunning Spells; Above Average Strength; Crossbowmanship
+6,Neville Longbottom,Male,Student,Gryffindor,"13"" Cherry unicorn hair",Non-corporeal,Human,Pure-blood,Blond,Unknown,Dumbledore's Army; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Herbology
+7,Fred Weasley,Male,Student,Gryffindor,Unknown,Unknown,Human,Pure-blood,Red,Brown,Dumbledore's Army; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Beater
+8,George Weasley,Male,Student,Gryffindor,Unknown,Unknown,Human,Pure-blood,Red,Brown,Dumbledore's Army; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Beater
+9,Ginevra (Ginny) Molly Weasley,Female,Student,Gryffindor,Unknown,Horse,Human,Pure-blood,Red,Bright brown,Dumbledore's Army; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Chaser; Bat-Bogey Hex
+10,Dean Thomas,Male,Student,Gryffindor,Unknown,Unknown,Human,Muggle-born,Black,Brown,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Chaser
+11,Seamus Finnigan,Male,Student,Gryffindor,Unknown,Fox,Human,Half-blood,Sandy,Unknown,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Pyrotechnics
+12,Lily J. Potter,Female,Unknown,Gryffindor,"10¼""  Willow  unknown core",Doe,Human,Muggle-born,Auburn,Bright green,Order of the Phoenix,Unknown
+13,James Potter,Male,Unknown,Gryffindor,"11""  Mahogany  unknown core",Stag,Human,Pure-blood,Black,Hazel,Order of the Phoenix,Animagus; Seeker
+14,Sirius Black,Male,Unknown,Gryffindor,Unknown,Unknown,Human,Pure-blood,Black,Grey,Order of the Phoenix,Animagus; Nonverbal Magic; Charms
+15,Remus John Lupin,Male,Professor of Defence Against the Dark Arts ,Gryffindor,"10¼"" Cypress unicorn hair",Wolf,Werewolf,Half-blood,Light brown flecked with grey,Green,Order of the Phoenix,Exceptionally Gifted in Defense Against the Dark Arts
+16,Peter Pettigrew,Male,The Servant of Lord Voldemort,Gryffindor,"9¼"" Chestnut dragon heartstring",None,Human,Half-blood or pure-blood,Colourless and Balding,Blue,Lord Voldemort; Death Eaters,Animagus
+17,Percy Ignatius Weasley,Male,Student|Prefect|  Personal assistant to Barty Crouch Snr ,Gryffindor,Unknown,Unknown,Human,Pure-blood,Red,Blue,Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry; British Ministry of Magic,Intelligent; Hard-Working; Model Student
+18,(Bill) William Arthur Weasley,Male,Curse-Breaker for Gringotts Bank,Gryffindor,Unknown,Unknown,Human (Werewolf traits),Pure-blood,Red,Blue,Order of the Phoenix,Highly Skilled Curse-Breaker for Gringotts Wizarding Bank; Very Intelligent; Past Hogwarts Head Boy
+19,Charles Weasley,Male,Dragonologist,Gryffindor,"12""  Ash unicorn tail hair",Unknown,Human,Pure-blood,Red,Grey,Order of the Phoenix; Gringotts Wizarding Bank,Highly Skilled Dragon Trainer; One-Time Gryffindor Seeker
+20,Lee Jordan ,Male,Student,Gryffindor,Unknown,Unknown,Human,Pure-blood or half-blood,Black,Brown,Dumbledore's Army; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Quidditch Commentary; Broadcasting
+21,Oliver Wood,Male,Student,Gryffindor,Unknown,Unknown,Human,Pure-blood or Half-blood,Unknown,Unknown,Hogwarts School of Witchcraft and Wizardry,Keeper; Captain of the Gryffindor Quidditch Team
+22,Angelina Johnson,Female,Student,Gryffindor,Unknown,Unknown,Human,Unknown,Brown,Brown,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Chaser
+23,Katie Bell,Female,Student,Gryffindor,Unknown,Unknown,Human,Pure-blood or half-blood,Brown,Brown,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Chaser
+24,Alicia Spinnet,Female,Student,Gryffindor,Unknown,Unknown,Human,Pure-blood or half-blood,Brown,Brown,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Chaser
+25,Lavender Brown,Female,Student,Gryffindor,Unknown,Unknown,Human,Pure-blood,Blond,Blue,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Divination
+26,Parvati Patil,Female,Student,Gryffindor,Unknown,Unknown,Human,Pure-blood or half-blood,Dark,Dark,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Divination
+27,Romilda Vane,Female,Student,Gryffindor,Unknown,Unknown,Human,Pure-blood or half-blood,Black,Dark,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Spiking Chocolate Cauldrons with Love Potion
+28,Colin Creevey,Male,Student,Gryffindor,Unknown,Unknown,Human,Muggle-born,Mousy,Unknown,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Photography
+29,Cormac McLaggen,Male,Student,Gryffindor,Unknown,Unknown,Human,Pure-blood or half-blood,Blond,Unknown,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Quidditch Keeper
+30,Minerva McGonagall,Female,Professor of Transfiguration | Head of Gryffindor,Gryffindor,"9½"" Fir dragon heartstring",Cat,Human,Half-blood,Black,Green,Albus Dumbledore; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Animagus 
+31,Molly Weasley,Female,Unknown,Gryffindor,Unknown,Unknown,Human,Pure-blood,Red,Bright Brown,Order of the Phoenix,Household Spells; Healing Magic
+32,Arthur Weasley,Male,Head of the Misuse of Muggle Artefacts Office,Gryffindor,Unknown,Weasel,Human,Pure-blood,Red,Green,Order of the Phoenix; British Ministry of Magic,Muggle World Works
+33,Quirinus Quirrell,Male,Defence Against the Dark Arts(1991-1992),Ravenclaw,"9"" Alder unicorn hair bendy",Non-corporeal,Human,Half-blood,Unknown,Unknown,Lord Voldemort,Theory of Defensive Magic (Less Adept in the Practice)
+34,Cho Chang,Female,Student,Ravenclaw,Unknown,Swan,Human,Pure-blood or half-blood,Black,Dark,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Seeker
+35,Luna Lovegood,Female,Student,Ravenclaw,Unknown,Hare,Human,Pure-blood or half-blood,Dirty-blonde,Pale Silver,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Spotting Nargles
+36,Gilderoy Lockhart,Male,Defence Against the Dark Arts(1992-1993),Ravenclaw,"9"" Cherry dragon heartstring",Non-corporeal,Human,Half-blood,Blond,Blue,Unknown,Unknown
+37,Filius Flitwick,Male,Professor of Charms | Head of Ravenclaw,Ravenclaw,Unknown,Non-corporeal,Human (Goblin Ancestry),Part-Goblin,White,Unknown,Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Charms
+38,Sybill Patricia Trelawney,Female,Professor of Divination,Ravenclaw,9 ½” hazel unicorn hair core,Non-corporeal,Human,Half-blood,Unknown,Unknown,Unknown,A Seer
+39,Garrick Ollivander,Male,Wandmaker,Ravenclaw,"12¾"" Hornbeam dragon heartstring",Non-corporeal,Human,Half-blood,Unknown,Silvery,Unknown,An Incomparable Understanding of Wandcraft
+40,Myrtle Elizabeth Warren (Moaning Myrtle),Female,Student,Ravenclaw,Unknown,Unknown,Ghost,Muggle-born,Unknown,Unknown,Unknown,Unknown
+41,Padma Patil,Female,Student,Ravenclaw,Unknown,Non-corporeal,Human,Pure-blood or half-blood,Dark,Dark,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Prefect
+42,Michael Corner,Male,Student,Ravenclaw,Unknown,Squirrel,Human,Half-blood,Black,Brown,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Potions
+43,Marietta Edgecombe,Female,Student,Ravenclaw,Unknown,Unknown,Human,Pure-blood or half-blood,Reddish-Blonde,Grey,Unknown,Covering Up The Spots That Blight Her Face After Betraying Dumbledore's Army
+44,Terry Boot,Male,Student,Ravenclaw,Unknown,Unknown,Human,Pure-blood or half-blood,Unknown,Unknown,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Potions and Charms
+45,Anthony Goldstein,Male,Student,Ravenclaw,Unknown,Non-corporeal,Human,Half-blood,Blonde,Grey,Dumbledore's Army; Hogwarts School of Witchcraft and Wizardry,Prefect
+46,Severus Snape,Male,Professor of Potions | Head of Slytherin,Slytherin,Unknown,Doe,Human,Half-blood,Black,Black,Albus Dumbledore; Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Extremely Skilled at Potions and Occlumency
+47,Draco Malfoy,Male,Student,Slytherin,"10"" Hawthorn unicorn hair",Unknown,Human,Pure-blood,White-blond,Grey,Unknown,Prefect and Seeker
+48,Vincent Crabbe,Male,Student,Slytherin,Unknown,Unknown,Human,Pure-blood,Black,Black,Unknown,Beater
+49,Gregory Goyle,Male,Student,Slytherin,Unknown,Unknown,Human,Pure-blood,Brown,Unknown,Unknown,Beater
+50,Bellatrix Lestrange,Female,Unknown,Slytherin,"12¾"" Walnut dragon heartstring",,Human,Pure-blood,Black,Unknown,Lord Voldemort; Death Eaters,Duellist of Great Skill and An Experienced Occlumens
+51,Dolores Jane Umbridge,Female,Professor of Defence Against the Dark Arts | Department of Magical Law Enforcement,Slytherin,"8"" Birch dragon heartstring",Cat,Human,Half-blood,Iron grey,Unknown,Ministry of Magic,Her Punishment Quill of Her Own Invention
+52,Horace Eugene Flaccus Slughorn,,Professor of Potions ,Slytherin,"10¼"" Cedar dragon heartstring fairly flexible",Non-corporeal,Human,Pure-blood or half-blood,Bald,Gooseberry,Order of the Phoenix; Hogwarts School of Witchcraft and Wizardry,Accomplished Occlumens; Expert Potioneer; Advanced Self-Transfiguration
+53,Lucius Malfoy,Male,School Governor,Slytherin,Elm and dragon heartstring,Unknown,Human,Pure-blood,White-Blond,Grey,Lord Voldemort; Death Eaters,Skilled Duellist and Potioneer
+54,Narcissa Malfoy,Female,Unknown,Slytherin,Unknown,Unknown,Human,Pure-blood,Blonde,Blue,Lord Voldemort; Death Eaters,Unknown
+55,Regulus Arcturus Black,Male,Unknown,Slytherin,Unknown,Non-corporeal,Human,Pure-blood,Black,Unknown,Unknown,Seeker
+56,Pansy Parkinson,Female,Student,Slytherin,Unknown,Unknown,Human,Pure-blood or half-blood,Unknown,Unknown,Unknown,Prefect
+57,Blaise Zabini,Male,Student,Slytherin,Unknown,Unknown,Human,Pure-blood or half-blood,Black,Brown,Unknown,Chaser
+58,Theodore Nott,Male,Student,Slytherin,Unknown,Unknown,Human,Pure-blood,Brown,Unknown,Unknown,Unknown
+59,Rodolphus Lestrange,Male,Unknown,Slytherin,Unknown,Unknown,Human,Pure-blood,Dark,Dark,Lord Voldemort; Death Eaters,Unknown
+60,Millicent Bulstrode,Female,Student,Slytherin,Unknown,Unknown,Human,Half-blood,Black,Unknown,Unknown,Unknown
+61,Bloody Baron,Male,Slytherin House Ghost,Slytherin,Unknown,Unknown,Ghost,Pure-blood or half-blood,Unknown,Unknown,Unknown,Controlling Peeves
+62,Penelope Clearwater,Female,Student,Ravenclaw,Unknown,Non-corporeal,Human,Muggle-born or half-blood[,Blonde,Unknown,Unknown,Prefect
+63,Marcus Belby,Male,Student,Ravenclaw,Unknown,Unknown,Human,Pure-blood or half-blood,Brown,Dark,Unknown,Unknown

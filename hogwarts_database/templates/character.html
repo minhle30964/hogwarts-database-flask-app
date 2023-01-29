@@ -1,0 +1,39 @@
+<!-- Using layout html file -->
+{% extends "layout.html" %}
+
+<!-- Block for linking CSS file for pages other than homepage -->
+{% block css_js_files %}
+    <link href="/static/data_pages.css" rel="stylesheet">
+{% endblock %}
+
+<!-- Naming the title of the page -->
+{% block title %}
+    {{character["Name"]}}
+{% endblock %}
+
+<!-- Main block -->
+{% block main %}
+    <!-- Utilizing Jumbotron from Bootstrap for central aspect of page -->
+    <div class="jumbotron">
+        <!-- Displaying information about Harry Potter character from SQL database inside Jumbotron -->
+        <h1 class="display-2">{{character["Name"]}}</h1>
+        <hr class="my-4">
+        <p class="lead"><b>Gender</b>: {{character["Gender"]}}</p>
+        <p class="lead"><b>Job</b>: {{character["Job"]}}</p>
+        <p class="lead"><b>Hogwarts House</b>: {{character["House"]}}</p>
+        <p class="lead"><b>Wand Type</b>: {{character["Wand"]}}</p>
+        <p class="lead"><b>Patronus</b>: {{character["Patronus"]}}</p>
+        <p class="lead"><b>Species</b>: {{character["Species"]}}</p>
+        <p class="lead"><b>Blood Status</b>: {{character["Blood Status"]}}</p>
+        <p class="lead"><b>Hair Color</b>: {{character["Hair Color"]}}</p>
+        <p class="lead"><b>Eye Color</b>: {{character["Eye Color"]}}</p>
+        <p class="lead"><b>Loyalties</b>: {{character["Loyalty"]}}</p>
+        <p class="lead"><b>Skills & Titles</b>: {{character["Skills/Titles"]}}</p>
+    </div>
+
+    <!-- Citing source links of images and dataset used -->
+    <footer class="mb-5 text-center">
+        Dataset From <a href="https://www.kaggle.com/gulsahdemiryurek/harry-potter-dataset">Kaggle</a>;
+        Harry Potter Favicon <a href="https://1000logos.net/harry-potter-logo/">Source</a>
+    </footer>
+{% endblock %}

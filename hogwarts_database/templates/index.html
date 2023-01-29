@@ -1,0 +1,41 @@
+<!-- Using layout html file -->
+{% extends "layout.html" %}
+
+<!-- Block for linking specific CSS and JS files for homepage -->
+{% block css_js_files %}
+    <link href="/static/homepage.css" rel="stylesheet">
+    <script src="/static/homepage.js"></script>
+{% endblock %}
+
+<!-- Naming the title of the homepage -->
+{% block title %}
+    Homepage
+{% endblock %}
+
+<!-- Main block -->
+{% block main %}
+    <!-- Utilizing Jumbotron from Bootstrap for central aspect of homepage -->
+    <div class="jumbotron background" id="block">
+        <!-- Welcoming and introducing user to page/web application -->
+        <h1 class="display-4 appear">Welcome to Hogwarts</h1>
+        <p class="lead appear">This is the Hogwarts Student-Faculty Database.</p>
+        <hr class="my-4 appear">
+        <!-- Button to make central aspects of page appear (similar to Maurauders' Map) -->
+        <a class="btn btn-success btn-lg" id="spell" href="#" role="button">I Solemly Swear That I Am Up To No Good</a>
+        <!-- Explaining use of web application -->
+        <p class="appear">
+            Feel free to use this database to discover information about your favorite characters from the Harry 
+            Potter books and movies. The entire database can be accessed by the Character Database link in the 
+            navigation bar, or you could simply search for the character you are looking for by utilizing the search 
+            bar in the top right.
+        </p>
+        </br>
+        <!-- Citing source links of images and dataset used -->
+        <p class="text-center appear">
+            Dataset From <a href="https://www.kaggle.com/gulsahdemiryurek/harry-potter-dataset">Kaggle</a>;
+            Background Image <a href="https://wallpapercave.com/hogwarts-background">Source</a>;
+            Marauders Map Image <a href="https://www.amazon.com/MightyPrint-Potter-Marauders-Generation-Premium/dp/B01LY0V6C2">Source</a>;
+            Harry Potter Favicon <a href="https://1000logos.net/harry-potter-logo/">Source</a>
+        </p>
+    </div>
+{% endblock %}
